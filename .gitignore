@@ -1,5 +1,10 @@
+# Ignore private notebook stuff
+.ipynb_checkpoints/
+
 # Ignore the stuff in student folder
 student/*
 
 # Except the readme
 !student/README.txt
+
+
