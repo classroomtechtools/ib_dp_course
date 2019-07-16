@@ -1,0 +1,5 @@
+# Ignore the stuff in student folder
+student/*
+
+# Except the readme
+!student/README.txt
