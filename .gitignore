@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 
 # Ignore the stuff in student folder
-student/*
+_student/*
 
 # Except the readme
 !student/README.txt
