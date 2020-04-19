@@ -81,5 +81,3 @@ if __name__ == '__main__':
         path_to_save = os.path.join('destination', file_name + '.png')
         if not cv2.imwrite(path_to_save, newimg):
             print("Did not save {}".format(path_to_save))
-process_photos.py
-Displaying process_photos.py.
